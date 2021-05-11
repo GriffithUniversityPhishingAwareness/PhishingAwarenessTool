@@ -26,11 +26,11 @@
 
 ### INSTALLATION [ KALI ]
 * git clone https://github.com/GriffithUniversityPhishingAwareness/PhishingAwarenessTool.git
-* cd AdvPhishing/
+* cd PhishingAwarenessTool/
 * chmod 777 *
 * ./Linux-Setup.sh
 * Enter the following authentication key for NGROK token when prompted: 1qQK8TdfJqmK0R8j0cnWs0mjT5G_4EH8V3VmZvNe7Q1R9PMAX
-* ./AdvPhishing.sh
+* ./StartTraining.sh
 
 ### AVAILABLE TUNNELLING OPTIONS
 1. LOCALHOST
