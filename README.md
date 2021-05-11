@@ -15,15 +15,6 @@
 <br>
 
 
-### SCREENSHOT ( KALI )
-![1]
-![2]
-
-
-<br>
-<br>
-
-
 ### INSTALLATION [ KALI ]
 * git clone https://github.com/GriffithUniversityPhishingAwareness/PhishingAwarenessTool.git
 * cd PhishingAwarenessTool/
